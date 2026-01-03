@@ -4,7 +4,7 @@
 
 ### Digital Product Architect | 0→1 Builder | México 🇲🇽
 
-**Transformo ideas complejas en productos digitales enterprise-grade que escalan**
+**Transformo ideas complejas en productos digitales enterprise que escalan**
 
 [![Website](https://img.shields.io/badge/laca--soft.com-0066CC?style=for-the-badge&logo=safari&logoColor=white)](https://laca-soft.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lacasoft)
