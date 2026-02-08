@@ -54,6 +54,21 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 ## 🚀 Products I've Built (0→1)
 
+### PrimeLane — Event Ticketing & Access Control SaaS
+<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Multi--Tenant_SaaS-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-Enterprise-purple?style=flat-square"/>
+
+**Problema identificado:** Organizadores de eventos dependientes de plataformas con comisiones abusivas y sin control sobre su marca.
+
+**Solución diseñada:** Plataforma multi-tenant con portales white-label por organizador, venta de boletos con Stripe, validación QR en tiempo real (SSE), 5 roles de usuario y dashboard analytics completo.
+
+**Impacto:** Democratización de la venta de boletos — desde eventos independientes hasta grandes festivales, cualquier organizador gestiona y vende de forma autónoma.
+
+**Stack:** Angular 20 • TailwindCSS • TypeScript • Stripe • QR/zxing • SSE • PWA • i18n
+
+🔗 [primelane.vip](https://www.primelane.vip/)
+
+---
+
 ### MiGuardia — Enterprise Access Control Platform
 <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-B2B_SaaS-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-Enterprise-purple?style=flat-square"/>
 
@@ -131,8 +146,10 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 ![Ebean](https://img.shields.io/badge/Ebean_ORM-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 
 ### Mobile & Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -180,7 +197,7 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 <div align="center">
 
-¿Tienes una idea que necesita convertirse en producto?  
+¿Tienes una idea que necesita convertirse en producto?
 ¿Buscas a alguien que entienda tanto el negocio como la tecnología?
 
 **Hablemos.**
