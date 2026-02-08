@@ -1,19 +1,18 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0066CC&height=220&section=header&text=LACA-SOFT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Enterprise-Grade%20Digital%20Products&descSize=20&descAlignY=55&descColor=58a6ff"/>
+
 <div align="center">
 
-# Hey, I'm the founder of LACA-SOFT 👋
-
-### Digital Product Architect | 0→1 Builder | México 🇲🇽
-
-**Transformo ideas complejas en productos digitales enterprise-grade que escalan**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Digital+Product+Architect+%7C+0%E2%86%921+Builder;Transformo+ideas+en+productos+que+escalan+%F0%9F%9A%80)](https://laca-soft.com)
 
 [![Website](https://img.shields.io/badge/laca--soft.com-0066CC?style=for-the-badge&logo=safari&logoColor=white)](https://laca-soft.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lacasoft)
-
----
+![Views](https://komarev.com/ghpvc/?username=lacasoft&color=0066CC&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-## 🧠 What I Do
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I Do
 
 Soy un **Digital Product Architect** con mentalidad de negocio y ejecución técnica de alto nivel. Mi especialidad es tomar una idea en servilleta y convertirla en un producto digital rentable con arquitectura enterprise desde el día uno.
 
@@ -23,7 +22,7 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 > *No solo escribo código. Diseño sistemas de negocio completos que resuelven problemas reales y generan valor.*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Mi Diferenciador: Business Acumen × Technical Excellence
 
@@ -50,11 +49,14 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Products I've Built (0→1)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Products I've Built (0→1)
 
-### PrimeLane — Event Ticketing & Access Control SaaS
+<details open>
+<summary><b>🎟️ PrimeLane — Event Ticketing & Access Control SaaS</b></summary>
+<br>
+
 <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Multi--Tenant_SaaS-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-Enterprise-purple?style=flat-square"/>
 
 **Problema identificado:** Organizadores de eventos dependientes de plataformas con comisiones abusivas y sin control sobre su marca.
@@ -67,9 +69,12 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 🔗 [primelane.vip](https://www.primelane.vip/)
 
----
+</details>
 
-### MiGuardia — Enterprise Access Control Platform
+<details open>
+<summary><b>🏢 MiGuardia — Enterprise Access Control Platform</b></summary>
+<br>
+
 <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-B2B_SaaS-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-Enterprise-purple?style=flat-square"/>
 
 **Problema identificado:** Control de acceso residencial ineficiente, basado en papel, sin trazabilidad.
@@ -82,9 +87,12 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 🔗 [miguardia.app](https://www.miguardia.app/)
 
----
+</details>
 
-### VELADA — Premium DTC Brand + E-commerce
+<details open>
+<summary><b>🧦 VELADA — Premium DTC Brand + E-commerce</b></summary>
+<br>
+
 <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-DTC_E--commerce-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Market-Premium-gold?style=flat-square"/>
 
 **Oportunidad detectada:** Mercado de calcetines commoditizado, sin propuesta de valor diferenciada.
@@ -97,9 +105,12 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 🔗 [velada.mx](https://velada.mx/)
 
----
+</details>
 
-### YoLoPicho — Social Impact Platform
+<details open>
+<summary><b>🍽️ YoLoPicho — Social Impact Platform</b></summary>
+<br>
+
 <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Social_Impact-red?style=flat-square"/> <img src="https://img.shields.io/badge/Model-B2B2C-teal?style=flat-square"/>
 
 **Problema identificado:** Desconexión entre la voluntad de ayudar de las personas y quienes más lo necesitan.
@@ -112,9 +123,12 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 🔗 [yolopicho.com](https://yolopicho.com/)
 
----
+</details>
 
-### LACA-SOFT — Tech & Innovation Knowledge Hub
+<details open>
+<summary><b>📝 LACA-SOFT — Tech & Innovation Knowledge Hub</b></summary>
+<br>
+
 <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Type-Content_Platform-lightblue?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-Thought_Leadership-black?style=flat-square"/>
 
 **Visión:** Crear un espacio donde tecnología, innovación e ideas disruptivas convergen.
@@ -125,89 +139,84 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 🔗 [laca-soft.com](https://laca-soft.com/)
 
----
+</details>
 
-## 💻 Enterprise Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Enterprise Tech Stack
 
 <div align="center">
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,dart,python" />
+</p>
 
 ### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 ![Play Framework](https://img.shields.io/badge/Play_Framework-92D13D?style=for-the-badge&logo=play&logoColor=white)
 ![Slim](https://img.shields.io/badge/Slim_Framework-74A045?style=for-the-badge&logo=php&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Ebean](https://img.shields.io/badge/Ebean_ORM-6DB33F?style=for-the-badge&logo=java&logoColor=white)
 
 ### Mobile & Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=angular,flutter,react,tailwind,html,css" />
+</p>
 
 ### Auth & Security
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
 
 ### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,githubactions" />
+</p>
+
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔥 What Sets Me Apart
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   ✦  INNOVADOR  →  Detecto oportunidades donde otros ven problemas    │
-│                                                                        │
-│   ✦  0→1 BUILDER  →  Diseño productos completos, no solo features     │
-│                                                                        │
-│   ✦  BUSINESS + TECH  →  Entiendo el "por qué" antes del "cómo"       │
-│                                                                        │
-│   ✦  ENTERPRISE DNA  →  Construyo para escalar, no para parchar       │
-│                                                                        │
-│   ✦  TRACK RECORD  →  Productos reales en producción generando valor  │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
----
+| | Fortaleza | Descripción |
+|:---:|:---|:---|
+| 💡 | **INNOVADOR** | Detecto oportunidades donde otros ven problemas |
+| 🏗️ | **0→1 BUILDER** | Diseño productos completos, no solo features |
+| 📊 | **BUSINESS + TECH** | Entiendo el "por qué" antes del "cómo" |
+| 🧬 | **ENTERPRISE DNA** | Construyo para escalar, no para parchar |
+| ✅ | **TRACK RECORD** | Productos reales en producción generando valor |
 
-## 📫 Let's Build Something Remarkable
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Build Something Remarkable
 
 <div align="center">
 
 ¿Tienes una idea que necesita convertirse en producto?
 ¿Buscas a alguien que entienda tanto el negocio como la tecnología?
 
-**Hablemos.**
+### **Hablemos.** 🤝
 
 [![Contacto](https://img.shields.io/badge/laca--soft.com-0066CC?style=for-the-badge&logo=safari&logoColor=white)](https://laca-soft.com/)
 
----
+<br>
 
 <sub>**LACA-SOFT** • Enterprise-Grade Digital Products • México 🇲🇽</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0066CC&height=120&section=footer"/>
