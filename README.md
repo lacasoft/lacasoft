@@ -78,7 +78,7 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 **Impacto:** Producto SaaS en producción sirviendo múltiples complejos residenciales.
 
-**Stack:** Flutter • REST APIs • OAuth 2.0 • Real-time sync • Offline-capable
+**Stack:** Angular • REST APIs • OAuth 2.0 • Real-time sync • Offline-capable
 
 🔗 [miguardia.app](https://www.miguardia.app/)
 
@@ -93,6 +93,8 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 **Impacto:** Brand positioning único en mercado mexicano, e-commerce completo con gestión de inventario.
 
+**Stack:** React • E-commerce • Gestión de inventario
+
 🔗 [velada.mx](https://velada.mx/)
 
 ---
@@ -106,7 +108,7 @@ Soy un **Digital Product Architect** con mentalidad de negocio y ejecución téc
 
 **Impacto:** Ecosistema funcional de restaurantes, donantes y beneficiarios con seguimiento fotográfico de cada donación.
 
-**Stack:** App móvil • Sistema de reportes • Notificaciones • Trazabilidad end-to-end
+**Stack:** Flutter • Sistema de reportes • Notificaciones • Trazabilidad end-to-end
 
 🔗 [yolopicho.com](https://yolopicho.com/)
 
